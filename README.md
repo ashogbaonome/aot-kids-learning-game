@@ -1,22 +1,24 @@
 <p align="center">
-  <img src="images/AOT_logo.png" width="220" alt="AOT Logo">
+  <img src="images/aot-logo.png" width="220" alt="AOT Logo">
 </p>
 
-#  AOT Kids Learning Game
+<h1 align="center">AOT Kids Learning Game</h1>
 
+<p align="center">
 An AI-assisted educational browser game designed to make learning fun for children through an interactive alphabet matching experience.
+</p>
 
 ---
 
-##  Live Demo
+## Live Demo
 
- **Play the Game**
+**Play the Game**
 
-https://ashogbaonome.github.io/aot-kids-learning-game/
+🔗 https://ashogbaonome.github.io/aot-kids-learning-game/
 
 ---
 
-##  Features
+## Features
 
 - Interactive alphabet matching
 - Child-friendly interface
@@ -27,7 +29,7 @@ https://ashogbaonome.github.io/aot-kids-learning-game/
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -36,27 +38,33 @@ https://ashogbaonome.github.io/aot-kids-learning-game/
 
 ---
 
-##  Screenshots
+## Screenshots
 
 ### Welcome Screen
 
-![Welcome Screen](images/AOT%20welcome%20screen.JPG)
-
-### Main Game
-
-![Main Game](images/AOT%20main%20game%20screen%201.JPG)
-
-### Gameplay
-
-![Gameplay](images/AOT%20main%20game%20screen%202.JPG)
-
-### Completed Game
-
-![Completed Game](images/AOT%20main%20game%20close2.JPG)
+![Welcome Screen](images/welcome-screen.jpg)
 
 ---
 
-##  Author
+### Main Game
+
+![Main Game](images/game-screen-1.jpg)
+
+---
+
+### Gameplay
+
+![Gameplay](images/game-screen-2.jpg)
+
+---
+
+### Completed Game
+
+![Completed Game](images/game-complete.jpg)
+
+---
+
+## Author
 
 **Ashogba Onome**
 
@@ -64,10 +72,17 @@ Founder, **AOT (Ashogba Onome Technology)**
 
 ---
 
-##  Future Improvements
+## Future Improvements
 
 - Multiple difficulty levels
 - More educational categories
 - Sound effects
-- Score leaderboard
+- Leaderboard and score tracking
 - Mobile optimization
+- Additional educational themes
+
+---
+
+## License
+
+This project is licensed under the MIT License.
