@@ -13,11 +13,15 @@ JavaScript
 AI-assisted Development
 Live Demo
 
-Coming Soon
+## 🌐 Live Demo
+
+🎮 Play Here:
+
+https://ashogbaonome.github.io/aot-kids-learning-game/
 
 Screenshots
 
-(Add screenshots)
+(Added screenshots)
 
 Author
 
