@@ -2,21 +2,21 @@
   <img src="images/AOT_logo.png" width="220" alt="AOT Logo">
 </p>
 
-# 🎮 AOT Kids Learning Game
+#  AOT Kids Learning Game
 
 An AI-assisted educational browser game designed to make learning fun for children through an interactive alphabet matching experience.
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-👉 **Play the Game**
+ **Play the Game**
 
 https://ashogbaonome.github.io/aot-kids-learning-game/
 
 ---
 
-## ✨ Features
+##  Features
 
 - Interactive alphabet matching
 - Child-friendly interface
@@ -27,7 +27,7 @@ https://ashogbaonome.github.io/aot-kids-learning-game/
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -36,7 +36,7 @@ https://ashogbaonome.github.io/aot-kids-learning-game/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Welcome Screen
 
@@ -56,7 +56,7 @@ https://ashogbaonome.github.io/aot-kids-learning-game/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ashogba Onome**
 
@@ -64,7 +64,7 @@ Founder, **AOT (Ashogba Onome Technology)**
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Multiple difficulty levels
 - More educational categories
